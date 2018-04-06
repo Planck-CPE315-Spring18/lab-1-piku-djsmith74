@@ -1,5 +1,10 @@
 # CPE 315 Lab 1 -- Piku
 
+Daniel Smith
+Complete
+gcc -o piku piku.s
+./piku
+
 ## Things to include in your README
 
 * Your name. Indicate if you go by a nickname.
